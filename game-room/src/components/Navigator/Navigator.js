@@ -8,6 +8,7 @@ const Navigator = () => {
             <Nav className='me-auto'>
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="/contact">Contact</Nav.Link>
+                <Nav.Link href="/history">History</Nav.Link>
                 <NavDropdown title="Games" id="basic-nav-dropdown">
                     <NavDropdown.Item href="/tictactoe">Tic Tac Toe</NavDropdown.Item>
                     <NavDropdown.Item href="/mancala">Mancala</NavDropdown.Item>

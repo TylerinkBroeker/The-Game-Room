@@ -1,9 +1,8 @@
-import React from "react";
 
 function Contact() {
   return (
     <div>
-      <p>This is what this app is all about!</p>
+      <p>Info to contact me</p>
     </div>
   )
 }
